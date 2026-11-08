@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @Vansnc
-- 👀 I’m a Data Analyst based on Beijing,Welcome to reach me for talking about Data Analysis.
-- 🌱 I’m currently learning AI coding
-- 📫 How to reach me ：vansnc(wechat)
+# 你好，我是 Vansnc
 
-<!---
-Vansnc/Vansnc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+在北京做数据分析，业余时间折腾 AI coding。
+
+最近在做的事：给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 写插件，
+把「AI 伙伴」做得更像个人——有记性、有心情、有自己的日子。
+
+## 在维护的插件
+
+**[dsh-feiyu-say](https://github.com/Vansnc/dsh-feiyu-say)** · [![npm](https://img.shields.io/npm/v/dsh-feiyu-say)](https://www.npmjs.com/package/dsh-feiyu-say)
+
+阿里百炼 TTS：把一句话合成成 WAV，可在线试听；开了子功能之后，调一次 `send_voice`
+就会自动转成 8kHz 单声道、发成 QQ 语音条。
+
+**[dsh-feiyu-life](https://github.com/Vansnc/dsh-feiyu-life)** · [![npm](https://img.shields.io/npm/v/dsh-feiyu-life)](https://www.npmjs.com/package/dsh-feiyu-life)
+
+给她一条生活线：按校历、课表、作息算出「此刻在干什么、手机在不在手上」，再抽一两件当天的小事，
+压成两行注入上下文。带设置页，能预览任意时间点。
+
+## 最近在学
+
+- AI coding：插件、MCP、Agent 编排
+- 把个人自动化做到「能用」，而不只是「能跑」
+
+## 找我
+
+- 微信：`vansnc`
+- 插件的问题直接开 issue，把版本和日志带上，比私信好查
+
+---
+
+<sub>写插件这件事，一半是为了好玩，一半是因为自己真的想要。</sub>
