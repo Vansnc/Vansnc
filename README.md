@@ -1,6 +1,6 @@
 # 你好，我是 Vansnc
 
-在北京做数据分析，业余时间折腾 AI coding。
+在北京做后端，业余时间折腾 AI coding。
 
 最近在做的事：给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 写插件，
 把「AI 伙伴」做得更像个人——有记性、有心情、有自己的日子。
