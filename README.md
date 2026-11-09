@@ -1,9 +1,9 @@
 # 你好，我是 Vansnc
 
-在北京做后端，业余时间折腾 AI coding。
+在北京做后端，业余时间折腾养鱼（DSH）大业
 
-最近在做的事：给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 写插件，
-把「AI 伙伴」做得更像个人——有记性、有心情、有自己的日子。
+最近在做的事：给 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 写插件（给她完整的一生），
+让大肥鱼更像人类——有记性、有心情、有自己的日子。
 
 ## 在维护的插件
 
@@ -29,4 +29,4 @@
 
 ---
 
-<sub>写插件这件事，一半是为了好玩，一半是因为自己真的想要。</sub>
+<sub>一个养鱼人</sub>
